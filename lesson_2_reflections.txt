@@ -17,3 +17,12 @@ How can you use the staging area to make sure you have one commit per logical ch
 		repository.
 
 
+What are some situations when brances would be helpful
+in keeping your history organized? How would branches
+help?
+
+		A group project or a project where certain aspects 
+		require the same files. Branches would allow for
+		easily seeing changes between different participants work. 
+
+
