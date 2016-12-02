@@ -25,4 +25,11 @@ help?
 		require the same files. Branches would allow for
 		easily seeing changes between different participants work. 
 
+How do the diagrams help you visualize the 
+branch structure?
+
+		Diagrams helped to establish the relationship
+		between all of the versions of a repository. 
+		It helps to see it visually. 
+
 
