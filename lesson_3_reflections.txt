@@ -4,13 +4,12 @@ local?
     You would want to use a remote repository rather than keeping all
     work local in order to make collaboration easier and more fruitful.
 
-Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    It allows you to determine what is seen on Github. You may
+    have changed locally and want to keep it local. 
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
     Fill in your answer here
 
