@@ -39,7 +39,13 @@ How would you collaborate without using Git or GitHub?  What would be easier,and
     using it very long, why Github is the industry standard 
     for version control.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would want to make changes in a separate branch in order 
+    to share my changes with collaborators before committing them 
+    to the production version and therefore making them
+    permanent. The benefits to making changes directly in the master
+    are the changes carry to new branches. Therefore, it is 
+    easier to know which changes are in which branch if you keep
+    almost all of your changes in the master branch and use 
+    additional branches judiciously. 
